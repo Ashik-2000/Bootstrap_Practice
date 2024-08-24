@@ -1,0 +1,5 @@
+{
+    "editor.guides.highlightActiveIndentation": "always",
+    "indentRainbow.indicatorStyle": "light",
+    "editor.guides.bracketPairs": true
+}
